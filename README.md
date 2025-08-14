@@ -34,7 +34,7 @@ All code is original, well-commented, and fully functional. Synthetic data gener
 ## 📁 Repository Structure
 
 ```
-DSA2040_Practical_Exam_[YourName][Last3Digits]/
+DSA2040_Practical_Exam_Levin913
 │
 ├── README.md                           # This file
 │
