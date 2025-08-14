@@ -79,9 +79,7 @@ DSA2040_Practical_Exam_[YourName][Last3Digits]/
 │       ├── association_rules.csv     # Discovered rules
 │       └── arm_analysis.md           # ARM insights
 │
-├── generated_data/                    # All generated datasets
-│   ├── retail_data.csv               # Synthetic retail data
-│   └── transactional_data.csv        # Synthetic transaction data
+
 │
 └── screenshots/                       # Execution screenshots
     ├── etl_execution.png
