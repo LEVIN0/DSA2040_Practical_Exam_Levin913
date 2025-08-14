@@ -37,7 +37,6 @@ All code is original, well-commented, and fully functional. Synthetic data gener
 DSA2040_Practical_Exam_[YourName][Last3Digits]/
 │
 ├── README.md                           # This file
-├── requirements.txt                    # Python dependencies
 │
 ├── Section1_DataWarehousing/          # Data Warehousing Tasks (50 marks)
 │   ├── Task1_Schema/                  # Schema Design (15 marks)
@@ -81,10 +80,7 @@ DSA2040_Practical_Exam_[YourName][Last3Digits]/
 │
 
 │
-└── screenshots/                       # Execution screenshots
-    ├── etl_execution.png
-    ├── olap_execution.png
-    └── mining_execution.png
+└── All screenshots/                       # Execution screenshots
 ```
 
 ---
